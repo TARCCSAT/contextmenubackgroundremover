@@ -12,3 +12,6 @@ python backgroundremover.pyw --register
 To uninstall:
 python backgroundremover.pyw --unregister
 
+![screenshot](https://github.com/user-attachments/assets/54aad5ec-19b5-4d11-992e-fb4c4a3480d9)
+
+
